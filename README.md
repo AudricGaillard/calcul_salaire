@@ -1,7 +1,7 @@
 # Calcul de salaires de filiales
 
 ## Contexte du projet
-Sur base d'un fichier JSON, cet exercice vise à calculer les salaires pour chaque filiale et à afficher les statistiques de ces calculs
+Sur base d'un fichier JSON généré avec Faker, cet exercice vise à calculer les salaires pour chaque filiale et à afficher les statistiques de ces calculs
 
 ## Fonctionnalités du projet
 - Calcul du salaire moyen pour chaque filiale
@@ -10,7 +10,7 @@ Sur base d'un fichier JSON, cet exercice vise à calculer les salaires pour chaq
 - Interface WEB avec Streamlit
 
 ## Configuration
-Pour garantir le bon fonctionnement du projet, veuillez installer les dépendances avec **pip install -r requirements.txt** dans un environnement virtuel Python.
+Pour garantir le bon fonctionnement du projet, veuillez installer les dépendances **Faker**, **Streamlit** et **Pandas** dans un environnement virtuel Python.
 
 ## Structure des fichiers
 - **fonctions** : Dossier où se trouve les fonctions utilisés par le script pour calculer les stats d'entreprise
